@@ -83,7 +83,7 @@
                                         <!-- Section Title Start -->
                                         <div class="section-title">
                                             <h3 class="wow fadeInUp">welcome to our charity</h3>
-                                            <h1 class="text-anime-style-2" data-cursor="-opaque"><span>Empower change</span>, one act of kindness at a time</h1>
+                                            <h1 class="text-anime-style-2" data-cursor="-opaque"><span>Empower change</span>, one act of kindness at a time(SDG1 No poverty)</h1>
                                             <p class="wow fadeInUp" data-wow-delay="0.2s">Join us in creating brighter futures by providing hope, delivering help, and fostering lasting change for communities in need around the world.</p>
                                         </div>
                                         <!-- Section Title End -->
